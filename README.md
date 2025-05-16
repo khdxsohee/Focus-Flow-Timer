@@ -29,10 +29,10 @@ Welcome to **Focus Flow Timer App** — a beautifully designed deep work timer t
    git clone https://github.com/khdxsohee/focus-flow-timer.git
    cd focus-flow-timer
 
-Open index.html in your browser:
+Open focus-flow-timer.html in your browser:
 
 bash
-open index.html
+open focus-flow-timer.html
 ---
 Start a session, and when the timer ends, log your mood.
 
@@ -50,7 +50,7 @@ Google Fonts – Inter
 ## 📦 Folder Structure
 
 focus-flow-timer/
-├── index.html
+├── focus-flow-timer.html
 ├── style.css
 ├── script.js
 └── README.md
