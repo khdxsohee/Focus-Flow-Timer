@@ -12,7 +12,7 @@ Welcome to **Focus Flow Timer App** — a beautifully designed deep work timer t
 
 ## 🌟 Features
 
-- ⏳ **00-minute Deep Work Timer** (Adjustable)
+- ⏳ **10-minute Deep Work Timer** (Adjustable)
 - 😊 **Mood Tracker** (Happy / Neutral / Sad)
 - 📊 **Session Summary Dashboard**
 - 💾 Saves your mood & session data using **localStorage**
